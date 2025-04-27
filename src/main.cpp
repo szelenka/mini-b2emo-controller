@@ -1,6 +1,6 @@
 #include <SPI.h>
 #include <RH_RF95.h>
-#include <Adafruit_SleepyDog/Adafruit_SleepyDog.h>
+#include <Adafruit_SleepyDog.h>
 
 // Desired LoRa frequency in MHz
 // 433.0, 868.0, 915.0
