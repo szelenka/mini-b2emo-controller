@@ -1,0 +1,3 @@
+[submodule "src/Adafruit_SleepyDog"]
+	path = src/Adafruit_SleepyDog
+	url = https://github.com/adafruit/Adafruit_SleepyDog.git
